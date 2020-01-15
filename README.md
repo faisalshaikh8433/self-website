@@ -1,4 +1,4 @@
-# my_site
+# self-website
 
 > Nuxt.js project
 

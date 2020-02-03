@@ -42,13 +42,18 @@
     </div>
     <div class="px-6 py-4">
       <div class="text-center font-bold text-xl mb-2">
-        Blogs Written 
+        Blogs 
       </div>
       <p class="text-gray-800 m-1 p-1 text-base">
         <ul class="list-disc px-2">
           <li class="m-1 p-1">
             <div>
               <a href="https://dev.to/faisalshaikh8433/streaming-csv-files-in-ruby-on-rails-2oda" target="_blank" class="underline">Streaming CSV files in Ruby On Rails</a>
+            </div>
+          </li>
+          <li class="m-1 p-1">
+            <div>
+              <a href="https://dev.to/faisalshaikh8433/recognizing-text-from-an-image-using-ruby-2nj8" target="_blank" class="underline">Recognizing text from an image using Ruby</a>
             </div>
           </li>
         </ul>

@@ -1,6 +1,5 @@
 <template>
   <div class="w-full lg:w-3/4  rounded overflow-hidden shadow-lg ">
-    <!-- <img class="w-full" src="/img/card-top.jpg" alt="Sunset in the mountains" /> -->
     <div class="px-6 py-4 ">
       <div class="font-bold text-xl mb-2 text-center">
         Hi I'm Faisal Shaikh a Full Stack developer, From Mumbai, India 🇮🇳.
@@ -8,7 +7,7 @@
       <p class="text-gray-800 m-1 p-1 text-base">
         <ul class="list-disc px-2">
           <li class="m-1 p-1">
-            I am a innovative developer with more than 3 years of experience work on backend and works with frontend whenever needed.
+            I am a Full Stack developer with more than 3 years of experience, work on backend and works with frontend whenever needed.
           </li>
           <li class="m-1 p-1">
             I am a bachelor in science with information technology degree holder.
@@ -35,8 +34,8 @@
             </div>
             <div>
               <p>
-                Developing, Websites, web applications using ruby on rails, laravel, vuejs, javascript, jquery, postgres, mysql, bootstarp, tailwind.
-                Primarily using rails, postgres, vuejs, bootstarp. 
+                Developing, Websites, web applications using ruby on rails, laravel, vuejs, javascript, jquery, postgres, mysql, bootstrap, tailwind.
+                Primarily using rails, postgres, vuejs, bootstrap. 
               </p>
             </div>
           </li>

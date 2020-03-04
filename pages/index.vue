@@ -41,7 +41,7 @@
           </li>
           <li class="m-1 p-1">
             <div class="flex">
-              <span class="font-bold text-l">FULL STACK DEVELOPER</span>
+              <span class="font-bold text-l">PHP WEB DEVELOPER</span>
               <span class="ml-auto font-bold text-l">July 2016 - April 2019</span>
             </div>
             <div>

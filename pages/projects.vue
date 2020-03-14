@@ -187,10 +187,6 @@
                 vuejs, vuex, vue router, persisted state on local storage and tailwind css.
               </p>
               <p class="p-1">
-                <span class="font-semibold">Role:</span>
-                I contributed money spending logic & small design tweeks.
-              </p>
-              <p class="p-1">
                 <span class="font-semibold">Url:</span>
                 <a
                   target="_blank"
@@ -234,7 +230,7 @@
               <a
                 target="_blank"
                 href="https://dev.to/faisalshaikh8433/streaming-csv-files-in-ruby-on-rails-2oda"
-                class="underline"
+                class="underline hover:text-blue-600"
               >Streaming CSV files in Ruby On Rails</a>
             </div>
           </li>
@@ -243,7 +239,7 @@
               <a
                 target="_blank"
                 href="https://dev.to/faisalshaikh8433/recognizing-text-from-an-image-using-ruby-2nj8"
-                class="underline"
+                class="underline hover:text-blue-600"
               >Recognizing text from an image using Ruby</a>
             </div>
           </li>

@@ -14,8 +14,8 @@
       <nuxt-link
         to="/"
         class="hidden md:block ml-2 text-white text-xl hover:text-blue-200"
-        >FAISAL SHAIKH
-      </nuxt-link>
+        >FAISAL SHAIKH</nuxt-link
+      >
     </div>
 
     <button @click="toggle" class="pointer-cursor lg:hidden block">
@@ -45,6 +45,14 @@
               class="lg:p-4 py-3 px-0 block border-b-2 border-transparent hover:border-indigo-400 text-white"
               to="/projects"
               >Projects & Blogs</nuxt-link
+            >
+          </li>
+          <li>
+            <a
+              class="lg:p-4 py-3 px-0 block border-b-2 border-transparent hover:border-indigo-400 text-white"
+              href="https://docs.google.com/document/d/1lq6d0zT-mwTnAfYLOaWZZY-WrRch6-P9Rza9hkd6nRI/edit#heading=h.y7d3xdxnr44m"
+              target="_blank"
+              >Resume</a
             >
           </li>
         </ul>

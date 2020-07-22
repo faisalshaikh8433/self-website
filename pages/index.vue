@@ -7,7 +7,7 @@
       <p class="text-gray-800 m-1 p-1 text-base">
         <ul class="list-disc px-2">
           <li class="m-1 p-1">
-            I am a Full Stack developer with more than 3 years of experience, work on backend and works with frontend whenever needed.
+            I am a Full Stack developer with more than 4 years of experience, work on backend and works with frontend whenever needed.
           </li>
           <li class="m-1 p-1">
             I am a bachelor in science with information technology degree holder.

@@ -1,5 +1,5 @@
 <template>
-  <div class="text-center bg-black p-2 shadow">
+  <div class="flex justify-center items-center p-2 shadow bg-black">
     <a href="https://twitter.com/shaikfaisal_dev" target="_blank">
       <span
         class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
@@ -14,8 +14,14 @@
     </a>
     <a href="https://www.linkedin.com/in/faisal-sk" target="_blank">
       <span
-        class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700"
+        class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
         >LinkedIn</span
+      >
+    </a>
+    <a href="https://dev.to/faisalshaikh8433">
+      <span
+        class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700"
+        >Dev</span
       >
     </a>
   </div>

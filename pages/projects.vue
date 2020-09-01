@@ -1,7 +1,7 @@
 <template>
   <div class="w-full lg:w-3/4 rounded overflow-hidden shadow-lg">
     <div class="px-6 py-4">
-      <div class="font-bold text-xl mb-2 text-center">Some of the projects I worked on.</div>
+      <div class="font-bold text-xl mb-2 text-center">Recent projects I worked on.</div>
       <div class="text-gray-800 m-1 p-1 text-base">
         <ul class="list-disc px-2">
           <li class="m-1 p-1">
@@ -206,6 +206,98 @@
           </li>
         </ul>
       </div>
+      <div class="font-bold text-xl mb-2 text-center">My personal projects</div>
+      <div class="text-gray-800 m-1 p-1 text-base">
+        <ul class="list-disc px-2">
+          <li class="m-1 p-1">
+            <strong class="underline text-lg">Memorizer</strong>
+            <div class="p-2 italic">
+              <p class="p-1">
+                <span class="font-semibold">Description:</span>
+                A laravel learning project of mine. This app provides user registration and lets them save an image with a description as a memory. Still working on it.
+              </p>
+              <p class="p-1">
+                <span class="font-semibold">Used:</span>
+                Laravel, mysql as a database & bootstrap.
+              </p>
+              <p class="p-1">
+                <span class="font-semibold">Url:</span>
+                <a
+                  target="_blank"
+                  href="https://memorizer-webapp.herokuapp.com"
+                  class="hover:text-blue-600"
+                >https://memorizer-webapp.herokuapp.com</a>
+              </p>
+              <p class="p-1">
+                <span class="font-semibold">GitUrl:</span>
+                <a
+                  target="_blank"
+                  href="https://github.com/faisalshaikh8433/memorizer"
+                  class="hover:text-blue-600"
+                >https://github.com/faisalshaikh8433/memorizer(wip).</a>
+              </p>
+            </div>
+          </li>
+          <li class="m-1 p-1">
+            <strong class="underline text-lg">Rails with Vue</strong>
+            <div class="p-2 italic">
+              <p class="p-1">
+                <span class="font-semibold">Description:</span>
+                Learning project of mine. It is a SPA powered by vuejs.
+              </p>
+              <p class="p-1">
+                <span class="font-semibold">Used:</span>
+                Vuejs, vue router, tailwind css, ruby on rails and postgresql.
+              </p>
+              <p class="p-1">
+                <span class="font-semibold">Url:</span>
+                <a
+                  target="_blank"
+                  href="https://rails-vue-sidenav.herokuapp.com"
+                  class="hover:text-blue-600"
+                >https://rails-vue-sidenav.herokuapp.com</a>
+              </p>
+              <p class="p-1">
+                <span class="font-semibold">GitUrl:</span>
+                <a
+                  target="_blank"
+                  href="https://github.com/faisalshaikh8433/Vue-Side-Navgation-layout"
+                  class="hover:text-blue-600"
+                >https://github.com/faisalshaikh8433/Vue-Side-Navgation-layout</a>
+              </p>
+            </div>
+          </li>
+          <li class="m-1 p-1">
+            <strong class="underline text-lg">Vue Todo App</strong>
+            <div class="p-2 italic">
+              <p class="p-1">
+                <span class="font-semibold">Description:</span>
+                Learning project of mine. Add, edit, delete & mark complete a todo. Your todos will be saved locally.
+              </p>
+              <p class="p-1">
+                <span class="font-semibold">Used:</span>
+                vuejs, vuex, vue router, persisted state on local storage and tailwind css.
+              </p>
+              <p class="p-1">
+                <span class="font-semibold">Url:</span>
+                <a
+                  target="_blank"
+                  href="https://simpletodosapp.netlify.com"
+                  class="hover:text-blue-600"
+                >https://simpletodosapp.netlify.com</a>
+              </p>
+              <p class="p-1">
+                <span class="font-semibold">GitUrl:</span>
+                <a
+                  target="_blank"
+                  href="https://github.com/faisalshaikh8433/Todo-App-Vue"
+                  class="hover:text-blue-600"
+                >https://github.com/faisalshaikh8433/Todo-App-Vue</a>
+              </p>
+            </div>
+          </li>
+        </ul>
+      </div>
     </div>
     <div class="px-6 py-4">
       <div class="font-bold text-xl mb-2 text-center">Project types I worked on.</div>
@@ -222,16 +314,16 @@
       </div>
     </div>
     <div class="px-6 py-4">
-      <div class="text-center font-bold text-xl mb-2">Blogs</div>
+      <div class="text-center font-bold text-xl mb-2">Blog Links</div>
       <div class="text-gray-800 m-1 p-1 text-base">
         <ul class="list-disc px-2">
           <li class="m-1 p-1">
             <div>
               <a
                 target="_blank"
-                href="https://dev.to/faisalshaikh8433/streaming-csv-files-in-ruby-on-rails-2oda"
+                href="https://dev.to/faisalshaikh8433/manipulating-data-object-of-the-vuejs-component-through-jquery-events-20ih"
                 class="underline hover:text-blue-600"
-              >Streaming CSV files in Ruby On Rails</a>
+              >Manipulating data object of the Vuejs component through JQuery events</a>
             </div>
           </li>
           <li class="m-1 p-1">
@@ -243,6 +335,15 @@
               >Recognizing text from an image using Ruby</a>
             </div>
           </li>
+          <li class="m-1 p-1">
+            <div>
+              <a
+                target="_blank"
+                href="https://dev.to/faisalshaikh8433/streaming-csv-files-in-ruby-on-rails-2oda"
+                class="underline hover:text-blue-600"
+              >Streaming CSV files in Ruby On Rails</a>
+            </div>
+          </li>
         </ul>
       </div>
     </div>
@@ -250,6 +351,6 @@
 </template>
 <script>
 export default {
-  layout: "default"
+  layout: "default",
 };
 </script>

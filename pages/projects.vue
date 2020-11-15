@@ -227,7 +227,7 @@
 					>
 				</Row>
 				<div class="mx-4 my-2 text-xl font-bold">
-					<p class="underline hover:text-gray-900">Rails with Vue</p>
+					<p class="underline hover:text-gray-900">Rails Spa</p>
 				</div>
 				<Row>
 					<span class="font-semibold">Description:</span>
@@ -275,9 +275,9 @@
 					<span class="font-semibold">Link:</span>
 					<a
 						target="_blank"
-						href="https://rails-vue-sidenav.herokuapp.com"
+						href="https://simpletodosapp.netlify.app"
 						class="underline hover:text-gray-900 text-blue-600"
-						>https://rails-vue-sidenav.herokuapp.com</a
+						>https://simpletodosapp.netlify.app</a
 					>
 				</Row>
 				<Row>

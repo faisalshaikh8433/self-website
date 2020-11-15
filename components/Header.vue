@@ -63,16 +63,16 @@
 
 <script>
 export default {
-  data: function() {
+  data: function () {
     return {
-      isOpen: false
+      isOpen: false,
     };
   },
   methods: {
     toggle() {
       this.isOpen = !this.isOpen;
-    }
-  }
+    },
+  },
 };
 </script>
 

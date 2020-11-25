@@ -284,9 +284,9 @@
 					<span class="font-semibold">Repository:</span>
 					<a
 						target="_blank"
-						href="https://simpletodosapp.netlify.com"
+						href="https://github.com/faisalshaikh8433/Todo-App-Vue	"
 						class="underline hover:text-gray-900 text-blue-600"
-						>https://simpletodosapp.netlify.com</a
+						>https://github.com/faisalshaikh8433/Todo-App-Vue</a
 					>
 				</Row>
 				<div class="mx-4 my-2 text-xl font-bold">

@@ -1,7 +1,7 @@
 <template>
 	<div class="flex mx-4 my-2 text-gray-900">
 		<p><slot name="start">-</slot></p>
-		<p class="ml-2 break-all">
+		<p class="ml-2 break-all sm:break-normal">
 			<slot></slot>
 		</p>
 	</div>

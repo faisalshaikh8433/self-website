@@ -8,6 +8,15 @@
 				<Row>
 					<a
 						target="_blank"
+						href="https://dev.to/faisalshaikh8433/custom-validation-error-message-using-laravel-blade-component-gi"
+						class="underline hover:text-gray-900 text-blue-600"
+						>Custom validation error message using Laravel blade
+						component
+					</a>
+				</Row>
+				<Row>
+					<a
+						target="_blank"
 						href="https://dev.to/faisalshaikh8433/build-an-email-tracking-service-using-laravel-aws-ses-sns-services-h96"
 						class="underline hover:text-gray-900 text-blue-600"
 						>Build an email tracking service using Laravel, AWS SES

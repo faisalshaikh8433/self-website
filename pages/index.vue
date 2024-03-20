@@ -6,123 +6,99 @@
 				🇮🇳.
 			</div>
 			<div
-				class="m-2 p-2 text-base bg-yellow-orange rounded-lg tracking-wider"
+				class="
+					m-2
+					p-2
+					text-base
+					bg-yellow-orange
+					rounded-lg
+					tracking-wider
+				"
 			>
-				<Row>Loves learning new things.</Row>
-				<Row>Solving problems through code.</Row>
+				<Row
+					>I am a highly motivated and skilled Full Stack Web
+					Developer with a passion for solving problems through
+					code.</Row
+				>
+				<Row
+					>With a Bachelor's degree in Science with Information
+					Technology and 7+ years of experience working on multiple
+					web applications, I have honed my expertise in both backend
+					and frontend development.</Row
+				>
 				<Row>
-					Mostly working on backend and works with frontend whenever
-					needed.
+					I have led teams, developed products from scratch, and met
+					crucial timelines. I am always eager to take on new
+					challenges and contribute to exciting projects.
 				</Row>
 				<Row
-					>I am a Bachelor’s degree holder in science with information
-					technology (BscIT).
+					>If you are looking for a dedicated Tech guy who can lead,
+					and deliver innovative solutions, please don't hesitate to
+					contact me. Let's connect and discuss how we can work
+					together.
 				</Row>
 			</div>
 		</div>
 		<div class="px-6 py-4">
-			<div class="text-center text-2xl mb-2 font-bold">EXPERIENCE</div>
 			<div
-				class="m-2 p-2 text-base bg-yellow-orange rounded-lg tracking-wider"
+				class="
+					m-2
+					p-2
+					text-base
+					bg-yellow-orange
+					rounded-lg
+					tracking-wider
+				"
 			>
-				<div
-					class="flex flex-wrap justify-between mx-4 my-2 text-xl font-medium"
-				>
-					<p>FULL STACK DEVELOPER</p>
+				<Row
+					>Currently working as a
+					<strong>Lead Fullstack developer</strong> at
 					<a
-						href="https://leadzpipe.com/"
+						class="
+							underline
+							font-medium
+							text-blue-600
+							hover:text-gray-900
+						"
+						href="https://praella.com/"
 						target="_blank"
-						class="underline text-blue-600 hover:text-gray-900"
-						>Leadzpipe</a
-					>
-					<p>July 2020 - Present</p>
-				</div>
-				<Row>
-					Developing Lead Management System using Laravel, Vuejs,
-					Javascript, jquery, MySQL, Bootstrap. Introduced Vuejs in
-					the project. The system acts as a bridge between the lead
-					source and destination.
-				</Row>
-				<Row>
-					Integrating different CRM or destination for auto feeding
-					lead data of users lead source to selected CRM or any
-					destination using the REST API provided by destination.
-				</Row>
-				<Row>
-					Developed a mail tracking service that tracks delivery,
-					open, bounce, etc. using AWS SES (Simple Email Service) and
-					SNS (Simple Notification Service).
-				</Row>
-
-				<div
-					class="flex flex-wrap justify-between mx-4 my-2 text-xl mt-6 font-medium"
+						>Praella
+					</a></Row
 				>
-					<p>FULL STACK DEVELOPER</p>
-					<a
-						href="https://neev.io/"
-						target="_blank"
-						class="underline text-blue-600 hover:text-gray-900"
-						>Neev Labs</a
-					>
-					<p>April 2019 - April 2020</p>
-				</div>
-				<Row>
-					I use to work mainly on two web applications Flowboard and
-					Masterchef.
-				</Row>
-				<Row>
-					Flowboard was a talent management system and Masterchef was
-					a bakery management system.
-				</Row>
-				<Row>
-					I was the main developer in the Masterchef designed
-					database, defined relationships, and handled large datasets.
-				</Row>
-				<Row>
-					Developed some complex forms using Vuejs and provided REST
-					API endpoints to the frontend.
-				</Row>
-				<Row>
-					Technologies used Ruby on Rails, Laravel, Vuejs, Javascript,
-					Jquery, PostgreSQL, MySQL, Bootstrap, Tailwind CSS, Code
-					versioning tools Github & Gitlab.
-				</Row>
-				<div
-					class="flex flex-wrap justify-between mx-4 my-2 text-xl mt-6 font-medium"
+				<Row
+					>I spearheaded the creation of a dynamic web page
+					designer/editor from inception to execution, successfully
+					integrating it with the leading e-commerce platform Shopify,
+					with the potential for seamless integration with other CMS
+					platforms. Managed the entire project lifecycle, I navigated
+					development challenges to deliver a high-revenue generating
+					solution. The product is profitable. Taking leadership roles
+					and leading the team in other projects as well.</Row
 				>
-					<p>PHP WEB DEVELOPER</p>
-					<a
-						href="https://www.cepheisys.com/"
-						target="_blank"
-						class="underline text-blue-600 hover:text-gray-900"
-						>Cepheisys Solution (Raj Computers)</a
-					>
-					<p>July 2016 - April 2019</p>
-				</div>
-				<Row>
-					I was into web development. Use to develop, test, and debug
-					custom websites and web applications to serve user needs.
-				</Row>
-				<Row>
-					Involvement in troubleshooting, planning for new projects &
-					database design. Client interaction was also involved.
-				</Row>
-				<Row>
-					Technologies used Core PHP, Html, CSS, Bootstrap, MySQL,
-					Javascript, Jquery.
-				</Row>
 			</div>
 		</div>
 
 		<div class="px-6 py-4">
 			<div class="text-2xl mb-2 text-center font-bold">CONTACT</div>
 			<div
-				class="m-2 p-2 bg-yellow-orange rounded-lg text-xl tracking-wider"
+				class="
+					m-2
+					p-2
+					bg-yellow-orange
+					rounded-lg
+					text-xl
+					tracking-wider
+				"
 			>
 				<Row>
 					<template #start>Email:</template>
 					<a
-						class="underline font-medium text-blue-600 hover:text-gray-900"
+						class="
+							underline
+							font-medium
+							text-blue-600
+							hover:text-gray-900
+						"
 						href="mailto:faisalshaikh8433@gmail.com"
 						target="_blank"
 						>faisalshaikh8433@gmail.com

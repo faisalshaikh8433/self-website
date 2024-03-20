@@ -3,7 +3,14 @@
 		<div class="px-6 py-4">
 			<div class="font-bold text-2xl mb-2 text-center">Blogs</div>
 			<div
-				class="m-2 p-2 text-base bg-yellow-orange rounded-lg tracking-wider"
+				class="
+					m-2
+					p-2
+					text-base
+					bg-yellow-orange
+					rounded-lg
+					tracking-wider
+				"
 			>
 				<Row>
 					<a
@@ -55,8 +62,16 @@
 				Project types I worked or working on.
 			</div>
 			<div
-				class="m-2 p-2 text-base bg-yellow-orange rounded-lg tracking-wider"
+				class="
+					m-2
+					p-2
+					text-base
+					bg-yellow-orange
+					rounded-lg
+					tracking-wider
+				"
 			>
+				<Row>Drag and Drop web page editor</Row>
 				<Row>Lead Management Software.</Row>
 				<Row>Artist Schedule Management Software For Agencies.</Row>
 				<Row>Bakery Management system.</Row>
@@ -76,8 +91,39 @@
 				Recent projects I worked on.
 			</div>
 			<div
-				class="m-2 p-2 text-base bg-yellow-orange rounded-lg tracking-wider"
+				class="
+					m-2
+					p-2
+					text-base
+					bg-yellow-orange
+					rounded-lg
+					tracking-wider
+				"
 			>
+				<div class="mx-4 my-2 text-xl font-bold">
+					<p class="underline hover:text-gray-900">
+						Web page designer/editor
+					</p>
+				</div>
+				<Row>
+					<span class="font-semibold">Description:</span>
+					Web app that has page editor for creating/editing/publishing
+					web pages. The main purpose of the system is to allow users
+					design pages by dragging & dropping components and then
+					publish it to the Shopify store.
+				</Row>
+				<Row>
+					<span class="font-semibold">Used:</span>
+					Laravel, Mysql, Vuejs, Grapesjs, Tailwind css, SSE (server
+					sent events).
+				</Row>
+				<Row>
+					<span class="font-semibold">Role:</span>
+					Build the product from scratch. Took leadership role,
+					managed the entire project lifecycle and navigated
+					development challenges to deliver a high-revenue generating
+					solution.
+				</Row>
 				<div class="mx-4 my-2 text-xl font-bold">
 					<p class="underline hover:text-gray-900">
 						Lead Management System
@@ -201,7 +247,14 @@
 				My personal projects
 			</div>
 			<div
-				class="m-2 p-2 text-base bg-yellow-orange rounded-lg tracking-wider"
+				class="
+					m-2
+					p-2
+					text-base
+					bg-yellow-orange
+					rounded-lg
+					tracking-wider
+				"
 			>
 				<div class="mx-4 my-2 text-xl font-bold">
 					<p class="underline hover:text-gray-900">Memorizer</p>

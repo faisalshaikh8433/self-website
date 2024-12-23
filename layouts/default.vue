@@ -2,7 +2,7 @@
 	<div>
 		<div v-if="isOpen">Hi</div>
 		<Header v-else />
-		<main class="flex justify-center bg-gray-200">
+		<main class="flex justify-center bg-gray-200 min-h-screen">
 			<nuxt class="m-2 bg-white" />
 		</main>
 		<Footer />
